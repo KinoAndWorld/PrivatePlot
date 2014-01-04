@@ -1,0 +1,20 @@
+PODS:
+  - FMDB (2.1):
+    - FMDB/standard
+  - FMDB/common (2.1)
+  - FMDB/standard (2.1):
+    - FMDB/common
+  - MBProgressHUD (0.8)
+  - PXAlertView (0.0.6)
+
+DEPENDENCIES:
+  - FMDB
+  - MBProgressHUD
+  - PXAlertView (~> 0.0.6)
+
+SPEC CHECKSUMS:
+  FMDB: 3fd5aaf632ca4ed39e3f101e0398504e6d5b0918
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  PXAlertView: 2684135028a05101d7b0f8f6d6414d3abb65368c
+
+COCOAPODS: 0.22.3
